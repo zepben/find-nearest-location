@@ -9,7 +9,7 @@
 
     <groupId>com.zepben</groupId>
     <artifactId>find-nearest-location</artifactId>
-    <version>2.3.0-SNAPSHOT</version>
+    <version>2.3.0-SNAPSHOT1</version>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Algorithm for finding the nearest location to a longlat</description>
     <url>https://github.com/zepben/find-nearest-location/</url>
