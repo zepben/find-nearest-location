@@ -1,6 +1,6 @@
 # Find Nearest Location changelog
 
-## [2.3.0]
+## [2.3.0] - UNRELEASED
 
 ### Breaking Changes
 * None.
