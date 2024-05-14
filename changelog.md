@@ -1,6 +1,6 @@
 # Find Nearest Location changelog
 
-## [2.3.0] - UNRELEASED
+## [2.3.0] - 2024-05-14
 
 ### Breaking Changes
 

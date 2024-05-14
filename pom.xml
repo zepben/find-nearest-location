@@ -9,7 +9,7 @@
 
     <groupId>com.zepben</groupId>
     <artifactId>find-nearest-location</artifactId>
-    <version>2.3.0-SNAPSHOT4</version>
+    <version>2.3.0</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Algorithm for finding the nearest location to a longlat</description>
@@ -73,7 +73,7 @@
         <dependency>
             <groupId>com.zepben</groupId>
             <artifactId>test-utils</artifactId>
-            <version>2.0.0-SNAPSHOT1</version>
+            <version>2.0.0</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
