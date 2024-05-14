@@ -1,4 +1,20 @@
 # Find Nearest Location changelog
+## [2.4.0] - UNRELEASED
+### Breaking Changes
+* None.
+
+### New Features
+* None.
+
+### Enhancements
+* None.
+
+### Fixes
+* None.
+
+### Notes
+* None.
+
 
 ## [2.3.0] - 2024-05-14
 
